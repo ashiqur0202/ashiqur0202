@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Data Science and Python
+- 🔭 I’m currently working on ... .... On my skills
+- 🌱 I’m currently learning .......... Data Science and Python
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Data Science
-- 💬 Ask me about nothing
-- 📫 How to reach me: via Instagram / Twitter => AshiqurRahman_
+- 🤔 I’m looking for help with ....... Data Science
+- 💬 Ask me about .................... Anything
+- 📫 How to reach me: . . . . . . . .  Instagram / Twitter => @AshiqurRahman_
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
