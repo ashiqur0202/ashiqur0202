@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... .... On my skills
-- 🌱 I’m currently learning .......... Data Science and Python
+- 🌱 I’m currently learning .......... Data Science and Data Analysis
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ....... Data Science
 - 💬 Ask me about .................... Anything
