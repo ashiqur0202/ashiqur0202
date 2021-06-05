@@ -16,24 +16,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 💬 Email Account: .................. ashiqur.ct@gmail.com
 
-## My Hard Skills:
-#### Python
-#### Pandas
-#### Scikit-learn 
-#### Matplotlib
-#### Seaborn       
-#### Power BI
-#### Tableau
-#### MySQL
-#### Microsoft Office
-#### Jupyter Notebook/Lab
-#### Git
-#### Linux/Ubuntu
-####
-####
-## My Soft Skills:
-#### Critical Thinking
 
+- 🔭 I’m currently working on [DSBA](https://github.com/ashiqur0202/TSF-Intern)
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 👯 I’m looking to collaborate on [Instagram](#)
+
+- 🤝 I’m looking for help with [Data Science](#)
+
+- 👨‍💻 All of my projects are available at [github](github)
+
+- 📝 I regularly write articles on [medium](medium)
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **ashiqur.ct@gmail.com**
+
+- 📄 Know about my experiences [resume link google drive](resume link google drive)
+
+- ⚡ Fun fact **I think I am good boy**
 
 
 
