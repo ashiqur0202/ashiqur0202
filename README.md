@@ -16,4 +16,19 @@ Here are some ideas to get you started:
 - 💬 Email Account: .................. ashiqur.ct@gmail.com
 
 ## My Hard Skills:
-###        Python    Pandas                      Scikit-learn       Matplotlib     Seaborn       
+####        Python
+#### Pandas
+####    Scikit-learn 
+####   Matplotlib
+####  Seaborn       
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+####
+####
+####
+####
