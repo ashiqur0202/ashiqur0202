@@ -1,4 +1,5 @@
-### Hi there, This is Md. Ashiqur Rahman👋
+<h1 align="center">Hi 👋, I'm Md. Ashiqur Rahman</h1>
+<h3 align="center">A passionate Data Scientist And Data Analysist</h3>
 
 <!--
 **Ashiqur-R/Ashiqur-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
