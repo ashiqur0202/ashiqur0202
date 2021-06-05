@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 - 💬 Email Account: .................. ashiqur.ct@gmail.com
 
 ## My Hard Skills:
-####        Python
+#### Python
 #### Pandas
-####    Scikit-learn 
-####   Matplotlib
-####  Seaborn       
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
+#### Scikit-learn 
+#### Matplotlib
+#### Seaborn       
+#### Power BI
+#### Tableau
+#### MySQL
+#### Microsoft Office
+#### Jupyter Notebook/Lab
+#### Git
+#### Linux/Ubuntu
 ####
 ####
-####
-####
+## My Soft Skills:
+#### Critical Thinking
