@@ -36,9 +36,11 @@
 <a href="/https://linktr.ee/ashiqurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://linktr.ee/ashiqurrahman" height="30" width="40" /></a>
 </p>
 
+
+
 <h3 align="left">Programming Language & Libraries:</h3>
 <p align="middle">
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="Python" alt="python" width="40" height="40"/> </a>
 <a href="https://www.numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="numpy" width="40" height="40"/> </a>
 <a href="https://www.scipy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="numpy" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="numpy" width="40" height="40"/> </a>
