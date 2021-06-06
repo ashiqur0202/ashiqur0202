@@ -39,7 +39,7 @@
 
 
 <h3 align="left">Programming Language & Libraries:</h3>
-<p align="middle"><h5>Python</h5></p>
+<p align="middle"><h5>Python(Numpy, Scipy, Pandas, Scikit-learn, Matplotlib, Seaborn)</h5></p>
 
 
 
