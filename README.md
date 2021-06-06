@@ -38,11 +38,22 @@
  -->
 
 
-<h3 align="left">Programming Language & Libraries:</h3>
+<h4 align="left">Programming Language & Libraries:</h4>
 <h5 align="middle">Python (Numpy, Scipy, Pandas, Scikit-learn, Matplotlib, Seaborn)</h5>
 
+<h4 align="left">Data Visualization:</h4>
+<h5 align="middle">Seaborn, Matplotlib, Tableau, Power BI</h5>
 
+<h4 align="left">Database:</h4>
+<h5 align="middle">MySQL</h5>
 
+<h4 align="left">Tools:</h4>
+<h5 align="middle">Jupyter notebook, Git, Anaconda</h5>
+
+<h4 align="left">Operating Systems:</h4>
+<h5 align="middle">Linux, Windows</h5>
+
+<!-- 
 <h3 align="left">Operating System:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -58,4 +69,4 @@
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
+ -->
