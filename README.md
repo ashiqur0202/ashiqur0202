@@ -40,7 +40,7 @@
 
 <h3 align="left">Programming Language & Libraries:</h3>
 <p align="middle">
-<a href="https://www.python.org" target="Python"> </a>
+<a href="#" target="blank"><H3>Python</> </a>
 <a href="https://www.numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="numpy" width="40" height="40"/> </a>
 <a href="https://www.scipy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="numpy" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="numpy" width="40" height="40"/> </a>
