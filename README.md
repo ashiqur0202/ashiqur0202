@@ -37,6 +37,7 @@
 </p>
  -->
 
+<h3 align="middle">My Skills</h3>
 
 <h4 align="left">Programming Language & Libraries:</h4>
 <h5 align="middle">Python (Numpy, Scipy, Pandas, Scikit-learn, Matplotlib, Seaborn)</h5>
