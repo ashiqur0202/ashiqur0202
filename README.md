@@ -24,7 +24,7 @@
 - ⚡ Fun fact **I think I am good boy**
 
 
-
+<!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashiqurrahman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashiqurrahman_" height="30" width="40" /></a>
@@ -35,11 +35,11 @@
 <a href="https://www.youtube.com/c/ashiqur0202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashiqur0202" height="30" width="40" /></a>
 <a href="/https://linktr.ee/ashiqurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://linktr.ee/ashiqurrahman" height="30" width="40" /></a>
 </p>
-
+ -->
 
 
 <h3 align="left">Programming Language & Libraries:</h3>
-<p align="middle"><h5>Python(Numpy, Scipy, Pandas, Scikit-learn, Matplotlib, Seaborn)</h5></p>
+<h5 align="middle">Python (Numpy, Scipy, Pandas, Scikit-learn, Matplotlib, Seaborn)</h5>
 
 
 
