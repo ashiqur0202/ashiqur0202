@@ -39,10 +39,7 @@
 
 
 <h3 align="left">Programming Language & Libraries:</h3>
-<p align="middle">
-<H3>Python</H>
-
-</p>
+<p align="middle"><h5>Python</h5></p>
 
 
 
