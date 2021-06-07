@@ -13,15 +13,15 @@
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 📝 I regularly write articles on [medium](medium)
+- 📝 I regularly write articles on [](#)
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **ashiqur.ct@gmail.com**
 
-- 📄 Know about my experiences [resume link google drive](resume link google drive)
+- 📄 Know about my experiences [resume link google drive](from my resume)
 
-- ⚡ Fun fact **I think I am good boy**
+- ⚡ Fun fact **I think I am a good boy**
 
 
 
