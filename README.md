@@ -38,7 +38,7 @@
 <h5 align="middle">SQL</h5>
 
 <h4 align="left">Tools:</h4>
-<h5 align="middle">Jupyter notebook, Git, Anaconda</h5>
+<h5 align="middle">Jupyter lab/notebook, Git, Anaconda</h5>
 
 <h4 align="left">Operating Systems:</h4>
 <h5 align="middle">Linux, Windows</h5>
