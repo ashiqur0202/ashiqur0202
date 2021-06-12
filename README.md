@@ -35,7 +35,7 @@
 <h5 align="middle">Seaborn, Matplotlib, Tableau, Power BI</h5>
 
 <h4 align="left">Database:</h4>
-<h5 align="middle">MySQL</h5>
+<h5 align="middle">SQL</h5>
 
 <h4 align="left">Tools:</h4>
 <h5 align="middle">Jupyter notebook, Git, Anaconda</h5>
