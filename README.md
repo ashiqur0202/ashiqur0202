@@ -32,7 +32,7 @@
 <h5 align="middle">Python (Numpy, Scipy, Pandas, Scikit-learn, Matplotlib, Seaborn)</h5>
 
 <h4 align="left">Data Visualization:</h4>
-<h5 align="middle">Seaborn, Matplotlib, Tableau, Power BI</h5>
+<h5 align="middle">Tableau, Power BI</h5>
 
 <h4 align="left">Database:</h4>
 <h5 align="middle">SQL</h5>
