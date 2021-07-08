@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 📝 I regularly write articles on [Website](www.ashiqnotes.com)
+- 📝 I regularly write articles on [Website](https://www.ashiqnotes.com/)
 
 - 💬 Ask me about **anything**
 
