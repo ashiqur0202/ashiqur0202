@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [DSBA](https://github.com/ashiqur0202/TSF-Intern)
+- 🔭 I’m currently working on [Kaggle](#)
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [resume link google drive](from my resume)
 
-- ⚡ Fun fact **I think I am a good boy**
+- ⚡ Fun fact **I know nothing**
 
 
 
