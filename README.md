@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ashiqur.ct@gmail.com**
 
-- 📄 Know about my experiences [resume link google drive](from my resume)
+- 📄 Know about my experiences [My Resume](#)
 
 - ⚡ Fun fact **I know nothing**
 
