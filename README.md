@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Kaggle](#)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning [Machine Learning](#)
 
 - 👯 I’m looking to collaborate on [Instagram](#)
 
