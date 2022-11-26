@@ -11,7 +11,8 @@
 <a href="https://kaggle.com/ashiqur0202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashiqur0202" height="30" width="40" /></a>
 </p>
 
-
+<h3>Skills:</h3>
+<hr>
 <p>
 Role		: Data Analyst, Business Analyst or any other related field<br>
 Programming	 	: Python (Numpy, Scipy, Pandas, Scikit-learn, Seaborn, Matplotlib)<br>
