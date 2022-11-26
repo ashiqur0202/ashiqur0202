@@ -13,15 +13,15 @@
 
 
 <p>
-Role		: Data Analyst, Business Analyst or any other related field
-Programming	 	: Python (Numpy, Scipy, Pandas, Scikit-learn, Seaborn, Matplotlib)
-Data Visualization	: Tableau, Power BI
-Database		: SQL
-Software		: Microsoft Office (Word, PowerPoint, Excel, Access), Adobe Photoshop
-Tools		: Jupyter notebook, Git, Anaconda
-Soft Skills		: Communication, Analytical Ability, Problem Solving, Storytelling
-Operating System 	: Windows, Linux
-Linguistic Proficiency 	: English, Bengali
+Role		: Data Analyst, Business Analyst or any other related field<br>
+Programming	 	: Python (Numpy, Scipy, Pandas, Scikit-learn, Seaborn, Matplotlib)<br>
+Data Visualization	: Tableau, Power BI<br>
+Database		: SQL<br>
+Software		: Microsoft Office (Word, PowerPoint, Excel, Access), Adobe Photoshop<br>
+Tools		: Jupyter notebook, Git, Anaconda<br>
+Soft Skills		: Communication, Analytical Ability, Problem Solving, Storytelling<br>
+Operating System 	: Windows, Linux<br>
+Linguistic Proficiency 	: English, Bengali<br>
 </p>
 
 
