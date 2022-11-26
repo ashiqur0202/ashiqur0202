@@ -1,5 +1,5 @@
 
-<h3 align="center">Welcome To My GitHub Profile</h3>
+<h3 align="center">Hi wave, I'm Azmine Toushik Wasi</h3>
 
 
 
