@@ -1,5 +1,16 @@
 
-<h3 align="center">Hi wave, I'm Md. Ashiqur Rahman </h3>
+
+<h1 align="center">Hi 👋, I'm Md. Ashiqur Rahman</h1>
+<h3 align="center">Exploring Data Science & Machine Learning</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
+
+
+
 
 
 
