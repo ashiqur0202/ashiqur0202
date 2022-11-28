@@ -37,10 +37,10 @@
 
 <h2 align="left">Certifications</h2>
 <p>
-BIG DATA, DATA ANALYTICS, AND DATA SCIENCE(from SEIP)	
-IBM Data Science Coursera (from Coursera)	  
-Become a Data Analyst (from LinkedIn)	     
-Microsoft Office 365 (from Udemy)	
+BIG DATA, DATA ANALYTICS, AND DATA SCIENCE(from SEIP)	<br>
+IBM Data Science Coursera (from Coursera)	  <br>
+Become a Data Analyst (from LinkedIn)	     <br>
+Microsoft Office 365 (from Udemy)	<br>
 </p>
 
 <!---================================================================================================================================================---> 
