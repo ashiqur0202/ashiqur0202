@@ -16,11 +16,11 @@
 
 <!---================================================================================================================================================---> 
 
-<h2>I am:</h2>
+<h2>I am </h2>
 
 <!---================================================================================================================================================---> 
 
-<h2>Skills:</h2>
+<h2>Skills</h2>
 <p>
   <b> Role		:</b> Data Analyst, Business Analyst or any other related field<br>
   <b>Programming	 	:</b>  Python (Numpy, Scipy, Pandas, Scikit-learn, Seaborn, Matplotlib)<br>
@@ -31,6 +31,16 @@
   <b>Soft Skills		:</b>  Communication, Analytical Ability, Problem Solving, Storytelling<br>
   <b>Operating System 	:</b>  Windows, Linux<br>
   <b>Linguistic Proficiency 	:</b>  English, Bengali<br>
+</p>
+
+<!---================================================================================================================================================---> 
+
+<h2 align="left">Certifications</h2>
+<p>
+BIG DATA, DATA ANALYTICS, AND DATA SCIENCE(from SEIP)	
+IBM Data Science Coursera (from Coursera)	  
+Become a Data Analyst (from LinkedIn)	     
+Microsoft Office 365 (from Udemy)	
 </p>
 
 <!---================================================================================================================================================---> 
