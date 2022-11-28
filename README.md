@@ -14,7 +14,7 @@
 <h3>Skills:</h3>
 <hr>
 <p>
-Role		: Data Analyst, Business Analyst or any other related field<br>
+  <b>Role		:</b> Data Analyst, Business Analyst or any other related field<br>
 Programming	 	: Python (Numpy, Scipy, Pandas, Scikit-learn, Seaborn, Matplotlib)<br>
 Data Visualization	: Tableau, Power BI<br>
 Database		: SQL<br>
