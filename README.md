@@ -11,7 +11,7 @@
 <a href="https://kaggle.com/ashiqur0202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashiqur0202" height="30" width="40" /></a>
 </p>
 
-<h3>Skills:</h3>
+<h2>Skills:</h2>
 <hr>
 <p>
   <b> Role		:</b> Data Analyst, Business Analyst or any other related field<br>
@@ -25,8 +25,10 @@
 <b>Linguistic Proficiency 	:</b>  English, Bengali<br>
 </p>
 
-<h2 align="center">Hi 👋, I'm Md. Ashiqur Rahman</h2>
 
+<h2 align="left">Projects</h2>
+
+<h2 align="left">Blogs</h2>
 
 - 🔭 I’m currently working on [Kaggle](#)
 
