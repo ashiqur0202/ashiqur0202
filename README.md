@@ -25,7 +25,7 @@
 <b>Linguistic Proficiency 	:</b>  English, Bengali<br>
 </p>
 
-<h3 align="center">Hi 👋, I'm Md. Ashiqur Rahman</h3>
+<h2 align="center">Hi 👋, I'm Md. Ashiqur Rahman</h2>
 
 
 - 🔭 I’m currently working on [Kaggle](#)
