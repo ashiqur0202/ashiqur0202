@@ -19,7 +19,7 @@
 
 <h2>I am </h2>
 - Studying MASDS - Master's in Applied Statistics and Data Science at Department of Statistics, Jahangirnagar University.<br>
-- Studies M.Sc in mathematics at Government Titumir College affiliated with Dhaka University.<br>
+- Studied M.Sc in mathematics at Government Titumir College affiliated with Dhaka University.<br>
 - Studied B.Sc. in Mathematics at Government Titumir College affiliated with Dhaka University.<br>
 - Studied HSC in Science at BAF Shaheen College, Tejgaon, Dhaka
 
