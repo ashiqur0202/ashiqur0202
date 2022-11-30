@@ -18,10 +18,9 @@
 <!---================================================================================================================================================---> 
 
 <h2>I am </h2>
-- **Studying MASDS - Master's in Applied Statistics and Data Science at Department of statistics, Jahangirnagar University**
-- *Studies M.Sc in mathematics at Government Titumir College affiliated with Dhaka University**
+- Studying MASDS - Master's in Applied Statistics and Data Science at Department of statistics, Jahangirnagar University
+- Studies M.Sc in mathematics at Government Titumir College affiliated with Dhaka University
 - Studied B.Sc. in Mathematics at Government Titumir College affiliated with Dhaka University.
-- 
 
 
 
