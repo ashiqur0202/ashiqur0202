@@ -54,24 +54,13 @@ Microsoft Office 365 (from Udemy)	<br>
 
 <!---================================================================================================================================================---> 
 
-- 🔭 I’m currently working on [Kaggle](#)
+<h2 align="left">Contact Information</h2>
 
-- 🌱 I’m currently learning [Machine Learning](#)
-
-- 👯 I’m looking to collaborate on [Instagram](#)
-
-- 🤝 I’m looking for help with [Data Science](#)
-
-- 👨‍💻 All of my projects are available at [github](github)
-
-- 📝 I regularly write articles on [Website](https://www.ashiqnotes.com/)
-
-- 💬 Ask me about **anything**
+<!---================================================================================================================================================---> 
 
 - 📫 How to reach me **ashiqur.ct@gmail.com**
 
-- 📄 Know about my experiences [My Resume](#)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/13s2zST5m9zdlv6KZZvxW0Km6l_jVUOxb/view?usp=sharing)
 
-- ⚡ Fun fact **I know nothing**
 
 <!---===============================================================================================================================================---> 
