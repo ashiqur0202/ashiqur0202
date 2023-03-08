@@ -86,7 +86,7 @@
 <br>
 <br>
 
-<b>Sentiment Analysis using NLP</b><br>
+<b>Sentiment Analysis using NLP</b> - [Code](https://github.com/ashiqur0202/Sentiment-Analysis)<br>
 <b>Tools and Technologies:</b> Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, NLP, NLTK Jupyter Notebook.<br>
 - Performing sentiment analysis on Amazon product reviews to understand customers opinions about the product. The dataset consists of thousands of Amazon product reviews, which were scraped from the Amazon website.<br>
 - The initial step was data cleaning and preprocessing, which includes removing irrelevant data such as HTML tags, punctuations, stop words, and converting text to lowercase, and applying techniques such as tokenization, stemming, and lemmatization.<br>
