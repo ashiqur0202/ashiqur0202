@@ -18,10 +18,11 @@
 <!---================================================================================================================================================---> 
 
 <h2>I am </h2>
-- Studying MASDS - Master's in Applied Statistics and Data Science at Department of Statistics, Jahangirnagar University.<br>
-- Studied M.Sc in mathematics at Government Titumir College affiliated with Dhaka University.<br>
-- Studied B.Sc. in Mathematics at Government Titumir College affiliated with Dhaka University.<br>
-- Studied HSC in Science at BAF Shaheen College, Tejgaon, Dhaka
+- I am a highly motivated individual with a strong passion for Data Science, Machine Learning, and Big Data Analytics.
+- I have a solid foundation in statistical analysis, data visualization, and predictive modeling techniques, as well as experience working with large datasets.
+- I hold a Master's degree in Mathematics and Studying a Master’s in Applied Statistics and Data Science and have completed several online courses in Data Science and Machine Learning.
+- I am always seeking to expand my knowledge and stay current with the latest developments in Data Science, Machine Learning, and Big Data Analytics.
+
 
 
 
@@ -29,30 +30,54 @@
 
 <h2>Skills</h2>
 <p>
-  <b> Role		:</b> Data Analyst, Business Analyst or any other related field<br>
-  <b>Programming	 	:</b>  Python (Numpy, Scipy, Pandas, Scikit-learn, Seaborn, Matplotlib)<br>
-  <b>Data Visualization	:</b>  Tableau, Power BI<br>
-  <b>Database		:</b>  SQL<br>
-  <b>Software		:</b>  Microsoft Office (Word, PowerPoint, Excel, Access), Adobe Photoshop<br>
-  <b>Tools		:</b>  Jupyter notebook, Git, Anaconda<br>
-  <b>Soft Skills		:</b>  Communication, Analytical Ability, Problem Solving, Storytelling<br>
-  <b>Operating System 	:</b>  Windows, Linux<br>
-  <b>Linguistic Proficiency 	:</b>  English, Bengali<br>
+  <b>Programming languages and libraries:</b>  Python (NumPy, SciPy, Pandas, Scikit-learn, Seaborn, Matplotlib, TensorFlow, Keras, PyTorch, and H2O), SQL<br>
+  <b>Machine learning:</b>  Linear Regression, Logistic Regression, Decision Trees, Random Forest, Support Vector Machines, K-Nearest Neighbors, Clustering, Neural Networks, and Deep Learning. Also, Model Evaluation, Hyperparameter Tuning, and Feature Engineering.<br>
+  <b>Data visualization:</b> Matplotlib, Seaborn, Power BI, and Tableau<br>
+  <b>Big data technologies:</b> Hadoop, Spark, Hive, and Flume<br>
+  <b>Data mining:</b> association rule mining, clustering, and decision trees.<br>
+  <b>Database:</b> Oracle, MySQL, MongoDB, Hive<br>
+  <b>Software:</b> Microsoft Office (Excel, Word, PowerPoint, Access) <br>
+  <b>Soft Skills:</b> Communication, Analytical Ability, Problem Solving, Storytelling <br>
+  <b>Hard Skills:</b></b> Algebra, Probability, Statistics, Calculus, Matrices<br>
+  <b>Tools:</b> Jupyter notebook, Git, Anaconda <br>
+  <b>Operating System:</b> Windows, Linux <br>
+  <b>Linguistic Proficiency:</b> English, Bengali<br>
 </p>
 
+
+
+
+
+
+
+
+
+<!---================================================================================================================================================--->
+
+<h2>I am </h2>
+- Studying MASDS - Master's in Applied Statistics and Data Science at Department of Statistics, Jahangirnagar University.<br>
+- Studied M.Sc in mathematics at Government Titumir College affiliated with Dhaka University.<br>
+- Studied B.Sc. in Mathematics at Government Titumir College affiliated with Dhaka University.<br>
+- Studied HSC in Science at BAF Shaheen College, Tejgaon, Dhaka
 <!---================================================================================================================================================---> 
 
 <h2 align="left">Certifications</h2>
 <p>
-BIG DATA, DATA ANALYTICS, AND DATA SCIENCE(from SEIP)	<br>
-IBM Data Science Coursera (from Coursera)	  <br>
-Become a Data Analyst (from LinkedIn)	     <br>
-Microsoft Office 365 (from Udemy)	<br>
+  Machine Learning - Stanford University & DeepLearning.AI, Coursera <br>
+ 	BIG DATA, DATA ANALYTICS, AND DATA SCIENCE - SEIP, Pondit 			<br>
+ 	Python for Everybody - University of Michigan, Coursera 			<br>
+ 	IBM Data Science - IBM, Coursera 										    <br>
+ 	Become a Data Analyst - LinkedIn 										<br>
+ 	Microsoft Office 365 - Udemy 										 <br>
 </p>
 
 <!---================================================================================================================================================---> 
 
 <h2 align="left">Projects</h2>
+
+
+
+
 
 <!---================================================================================================================================================---> 
 
