@@ -4,7 +4,7 @@
 
 <!---===============================================================================================================================================---> 
 
-<h3 align="center">Exploring Data Science & Machine Learning</h3>
+<h3 align="center">Exploring the field of Data Science, Machine Learning, and Big Data Analytics</h3>
 
 <!---================================================================================================================================================---> 
 
@@ -87,7 +87,7 @@
 <br>
 
 <b>Sentiment Analysis using NLP</b><br>
-<b>Tools and Technologies:</b> Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.<br>
+<b>Tools and Technologies:</b> Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, NLP, NLTK Jupyter Notebook.<br>
 - Performing sentiment analysis on Amazon product reviews to understand customers opinions about the product. The dataset consists of thousands of Amazon product reviews, which were scraped from the Amazon website.<br>
 - The initial step was data cleaning and preprocessing, which includes removing irrelevant data such as HTML tags, punctuations, stop words, and converting text to lowercase, and applying techniques such as tokenization, stemming, and lemmatization.<br>
 - Applied Natural Language Processing (NLP) techniques and machine learning algorithms such as logistic regression, decision trees, or Naive Bayes to perform sentiment analysis and evaluate the model's performance using various metrics such as accuracy, precision, recall, and F1 score.<br>
@@ -105,9 +105,9 @@
 
 <!---================================================================================================================================================---> 
 
-- 📫 How to reach me **ashiqur.ct@gmail.com**
+- 📫 How to reach me **ashiqur7429@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/13s2zST5m9zdlv6KZZvxW0Km6l_jVUOxb/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](#)
 
 
 <!---===============================================================================================================================================---> 
