@@ -75,7 +75,7 @@
 
 <h2 align="left">Projects</h2>
 
-<b>Stock Price Prediction</b><br>
+<b>Stock Price Prediction</b> - [Code](https://github.com/ashiqur0202/Stock-Price-Prediction)<br>
 <b>Tools and Technologies:</b> Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.<br>
 - Collected stock price data from Yahoo Finance and performed statistical analysis to identify trends and relationships. <br>
 - Applied machine learning techniques like regression, classification, and time-series analysis to build predictive models, and optimized them using feature engineering, hyperparameter tuning, and cross-validation. <br>
