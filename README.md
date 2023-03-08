@@ -18,10 +18,10 @@
 <!---================================================================================================================================================---> 
 
 <h2>I am </h2>
-- I am a highly motivated individual with a strong passion for Data Science, Machine Learning, and Big Data Analytics.
-- I have a solid foundation in statistical analysis, data visualization, and predictive modeling techniques, as well as experience working with large datasets.
-- I hold a Master's degree in Mathematics and Studying a Master’s in Applied Statistics and Data Science and have completed several online courses in Data Science and Machine Learning.
-- I am always seeking to expand my knowledge and stay current with the latest developments in Data Science, Machine Learning, and Big Data Analytics.
+- I am a highly motivated individual with a strong passion for Data Science, Machine Learning, and Big Data Analytics.<br>
+- I have a solid foundation in statistical analysis, data visualization, and predictive modeling techniques, as well as experience working with large datasets.<br>
+- I hold a Master's degree in Mathematics and Studying a Master’s in Applied Statistics and Data Science and have completed several online courses in Data Science and Machine Learning.<br>
+- I am always seeking to expand my knowledge and stay current with the latest developments in Data Science, Machine Learning, and Big Data Analytics.<br>
 
 
 
