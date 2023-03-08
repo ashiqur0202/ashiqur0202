@@ -61,18 +61,6 @@
 - Studied HSC in Science at BAF Shaheen College, Tejgaon, Dhaka
 <!---================================================================================================================================================---> 
 
-<h2 align="left">Certifications</h2>
-<p>
-  Machine Learning - Stanford University & DeepLearning.AI, Coursera <br>
- 	BIG DATA, DATA ANALYTICS, AND DATA SCIENCE - SEIP, Pondit 			<br>
- 	Python for Everybody - University of Michigan, Coursera 			<br>
- 	IBM Data Science - IBM, Coursera 										    <br>
- 	Become a Data Analyst - LinkedIn 										<br>
- 	Microsoft Office 365 - Udemy 										 <br>
-</p>
-
-<!---================================================================================================================================================---> 
-
 <h2 align="left">Projects</h2>
 
 <b>Stock Price Prediction</b> - [Code](https://github.com/ashiqur0202/Stock-Price-Prediction)<br>
@@ -92,6 +80,21 @@
 - The initial step was data cleaning and preprocessing, which includes removing irrelevant data such as HTML tags, punctuations, stop words, and converting text to lowercase, and applying techniques such as tokenization, stemming, and lemmatization.<br>
 - Applied Natural Language Processing (NLP) techniques and machine learning algorithms such as logistic regression, decision trees, or Naive Bayes to perform sentiment analysis and evaluate the model's performance using various metrics such as accuracy, precision, recall, and F1 score.<br>
 - Finally, visualize the results using graphs and charts to gain insights for improving product offerings, customer service, and marketing strategies.<br>
+
+
+
+<!---================================================================================================================================================---> 
+
+
+<h2 align="left">Certifications</h2>
+<p>
+  Machine Learning - Stanford University & DeepLearning.AI, Coursera <br>
+ 	BIG DATA, DATA ANALYTICS, AND DATA SCIENCE - SEIP, Pondit 			<br>
+ 	Python for Everybody - University of Michigan, Coursera 			<br>
+ 	IBM Data Science - IBM, Coursera 										    <br>
+ 	Become a Data Analyst - LinkedIn 										<br>
+ 	Microsoft Office 365 - Udemy 										 <br>
+</p>
 
 
 
