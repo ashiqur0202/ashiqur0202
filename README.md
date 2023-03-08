@@ -74,6 +74,7 @@
 <!---================================================================================================================================================---> 
 
 <h2 align="left">Projects</h2>
+
 <b>Stock Price Prediction</b><br>
 <b>Tools and Technologies:</b> Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.<br>
 - Collected stock price data from Yahoo Finance and performed statistical analysis to identify trends and relationships. <br>
@@ -81,6 +82,9 @@
 - Evaluated model performance using metrics such as mean squared error, accuracy, and precision-recall curves.<br>
 - Visualized the results using Python visualization libraries such as Matplotlib and Seaborn and also Developed a dashboard using interactive visualization tool Power BI to support data-driven decision-making.<br>
 
+
+<br>
+<br>
 
 <b>Sentiment Analysis using NLP</b><br>
 <b>Tools and Technologies:</b> Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.<br>
