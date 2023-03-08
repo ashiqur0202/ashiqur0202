@@ -54,7 +54,7 @@
 
 <!---================================================================================================================================================--->
 
-<h2>I am </h2>
+<h2>Education </h2>
 - Studying MASDS - Master's in Applied Statistics and Data Science at Department of Statistics, Jahangirnagar University.<br>
 - Studied M.Sc in mathematics at Government Titumir College affiliated with Dhaka University.<br>
 - Studied B.Sc. in Mathematics at Government Titumir College affiliated with Dhaka University.<br>
@@ -74,8 +74,20 @@
 <!---================================================================================================================================================---> 
 
 <h2 align="left">Projects</h2>
+<b>Stock Price Prediction</b><br>
+<b>Tools and Technologies:</b> Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.<br>
+- Collected stock price data from Yahoo Finance and performed statistical analysis to identify trends and relationships. <br>
+- Applied machine learning techniques like regression, classification, and time-series analysis to build predictive models, and optimized them using feature engineering, hyperparameter tuning, and cross-validation. <br>
+- Evaluated model performance using metrics such as mean squared error, accuracy, and precision-recall curves.<br>
+- Visualized the results using Python visualization libraries such as Matplotlib and Seaborn and also Developed a dashboard using interactive visualization tool Power BI to support data-driven decision-making.<br>
 
 
+<b>Sentiment Analysis using NLP</b><br>
+<b>Tools and Technologies:</b> Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.<br>
+- Performing sentiment analysis on Amazon product reviews to understand customers opinions about the product. The dataset consists of thousands of Amazon product reviews, which were scraped from the Amazon website.<br>
+- The initial step was data cleaning and preprocessing, which includes removing irrelevant data such as HTML tags, punctuations, stop words, and converting text to lowercase, and applying techniques such as tokenization, stemming, and lemmatization.<br>
+- Applied Natural Language Processing (NLP) techniques and machine learning algorithms such as logistic regression, decision trees, or Naive Bayes to perform sentiment analysis and evaluate the model's performance using various metrics such as accuracy, precision, recall, and F1 score.<br>
+- Finally, visualize the results using graphs and charts to gain insights for improving product offerings, customer service, and marketing strategies.<br>
 
 
 
