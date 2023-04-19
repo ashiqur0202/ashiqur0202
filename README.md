@@ -64,17 +64,17 @@
 
 <b>House Price Prediction using Advanced Regression Algorithms</b> - [Code](https://github.com/ashiqur0202/House-Price-Prediction)<br>
 <b>Tools and Technologies:</b> Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Advanced Regression Analysis, Jupyter Notebook.<br>
-- Collected stock price data from Yahoo Finance and performed statistical analysis to identify trends and relationships. <br>
-- Applied machine learning techniques like regression, classification, and time-series analysis to build predictive models, and optimized them using feature engineering, hyperparameter tuning, and cross-validation. <br>
-- Evaluated model performance using metrics such as mean squared error, accuracy, and precision-recall curves.<br>
-- Visualized the results using Python visualization libraries such as Matplotlib and Seaborn and also Developed a dashboard using interactive visualization tool Power BI to support data-driven decision-making.<br>
+- Collected real estate data and did statistical analysis to develop an advanced regression-based house price prediction model<br>
+- Proficiently applied multiple regression, gradient boosting, and XGBoost regression algorithms to optimize the model's performance<br>
+- Conducted exploratory data analysis, feature engineering, and data preprocessing to enhance the accuracy of the model. <br>
+- Evaluated the model using various metrics and effectively communicated insights to stakeholders through presentations, reports, and data visualizations.<br>
 
 
 <br>
 <br>
 
 
-<b>Stock Price Prediction</b> - [Code](https://github.com/ashiqur0202/Stock-Price-Prediction)<br>
+<b>Stock Price Prediction using ML and DL</b> - [Code](https://github.com/ashiqur0202/Stock-Price-Prediction)<br>
 <b>Tools and Technologies:</b> Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.<br>
 - Collected stock price data from Yahoo Finance and performed statistical analysis to identify trends and relationships. <br>
 - Applied machine learning techniques like regression, classification, and time-series analysis to build predictive models, and optimized them using feature engineering, hyperparameter tuning, and cross-validation. <br>
