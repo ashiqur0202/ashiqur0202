@@ -73,7 +73,6 @@
 <br>
 <br>
 
-<h2 align="left">Projects</h2>
 
 <b>Stock Price Prediction</b> - [Code](https://github.com/ashiqur0202/Stock-Price-Prediction)<br>
 <b>Tools and Technologies:</b> Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.<br>
