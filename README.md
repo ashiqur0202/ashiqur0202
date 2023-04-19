@@ -60,6 +60,18 @@
 - Studied B.Sc. in Mathematics at Government Titumir College affiliated with Dhaka University.<br>
 - Studied HSC in Science at BAF Shaheen College, Tejgaon, Dhaka
 <!---================================================================================================================================================---> 
+<h2 align="left">Projects</h2>
+
+<b>House Price Prediction using Advanced Regression Algorithms</b> - [Code](https://github.com/ashiqur0202/House-Price-Prediction)<br>
+<b>Tools and Technologies:</b> Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Advanced Regression Analysis, Jupyter Notebook.<br>
+- Collected stock price data from Yahoo Finance and performed statistical analysis to identify trends and relationships. <br>
+- Applied machine learning techniques like regression, classification, and time-series analysis to build predictive models, and optimized them using feature engineering, hyperparameter tuning, and cross-validation. <br>
+- Evaluated model performance using metrics such as mean squared error, accuracy, and precision-recall curves.<br>
+- Visualized the results using Python visualization libraries such as Matplotlib and Seaborn and also Developed a dashboard using interactive visualization tool Power BI to support data-driven decision-making.<br>
+
+
+<br>
+<br>
 
 <h2 align="left">Projects</h2>
 
