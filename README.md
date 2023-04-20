@@ -65,9 +65,10 @@
 <b>House Price Prediction using Advanced Regression Algorithms</b> - [Code](https://github.com/ashiqur0202/House-Price-Prediction)<br>
 <b>Tools and Technologies:</b> Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Advanced Regression Analysis, Jupyter Notebook.<br>
 - Collected real estate data and performed statistical analysis to identify relationships to develop an advanced regression-based house price prediction model.<br>
-- Proficiently applied machine learning techniques like multiple regression, gradient boosting, and XGBoost regression algorithms to build predictive models, and optimized them using feature selection, feature engineering, and hyperparameter tuning.<br>
-- Evaluated the model performance using various metrics such as mean absolute error, root mean square error, and R-squared and effectively communicated insights to stakeholders through presentations, reports, and data visualizations.<br>
-
+- Developed a highly accurate house price prediction model using Advanced Regression Algorithms, including Multiple Regression, Gradient Boosting, XGBoost regression, and LightGBM Regression. <br>
+- Conducted Exploratory Data Analysis, Feature Engineering, and Data Preprocessing to optimize model performance.<br>
+- Achieved an R-squared value of 0.83 and a mean absolute error of $20,000. <br>
+- Communicated findings and insights to stakeholders through engaging data visualizations and reports, leading to informed decision-making in the real estate industry.<br>
 
 <br>
 <br>
