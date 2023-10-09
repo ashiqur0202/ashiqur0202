@@ -18,11 +18,7 @@
 <!---================================================================================================================================================---> 
 
 <h2>I am </h2>
-- I am a highly motivated individual with a strong passion for Data Science, Machine Learning, and Big Data Analytics.<br>
-- I have a solid foundation in statistical analysis, data visualization, and predictive modeling techniques, as well as experience working with large datasets.<br>
-- I hold a Master's degree in Mathematics and Studying a Master’s in Applied Statistics and Data Science and have completed several online courses in Data Science and Machine Learning.<br>
-- I am always seeking to expand my knowledge and stay current with the latest developments in Data Science, Machine Learning, and Big Data Analytics.<br>
-
+Passionate and motivated data enthusiast with a strong commitment to Data Analysis, Data Science, and Machine Learning. Solid foundation in Statistical Analysis, Data Visualization, and Predictive Modeling, complemented by extensive experience with large datasets. Holder of BSc, MSc in Mathematics, and a Master's in Applied Statistics and Data Science. A continuous learner, I've enhanced my skills through various online courses. Currently, I am working in a dynamic role as a Business Associate at 'উপায় (UCB Fintech Company Limited)' where I specialize in Predictive Analytics, Customer Segmentation, and extracting actionable insights from feedback.
 
 
 
