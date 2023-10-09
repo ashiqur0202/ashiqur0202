@@ -44,14 +44,6 @@
   <b>Linguistic Proficiency:</b> English, Bengali<br>
 </p>
 
-
-
-
-
-
-
-
-
 <!---================================================================================================================================================--->
 
 <h2>Education </h2>
@@ -65,26 +57,21 @@
 
 
 <b>উপায় (UCB Fintech Company Limited), Dhaka, Bangladesh</b> <br>
-<b>Business Associate - Business Intelligence (Contract) | Oct/2023 - Present </b>
-• Proficiently utilize Predictive Analytics, Customer Segmentation, and Feedback Analysis.
-• Transform intricate data into actionable insights, driving data-driven decision-making processes.
-• Collaborate cross-functionally to strategize and execute innovative initiatives and plans.
-• Apply Advanced Statistical Techniques to MFS data, enhancing Customer and Agent Segmentation Strategies.
-• Skillfully employ data visualization tools to effectively communicate insights to stakeholders.
+<b>Business Associate - Business Intelligence (Contract) | Oct/2023 - Present </b> <br>
+• Proficiently utilize Predictive Analytics, Customer Segmentation, and Feedback Analysis.<br>
+• Transform intricate data into actionable insights, driving data-driven decision-making processes.<br>
+• Collaborate cross-functionally to strategize and execute innovative initiatives and plans.<br>
+• Apply Advanced Statistical Techniques to MFS data, enhancing Customer and Agent Segmentation Strategies.<br>
+• Skillfully employ data visualization tools to effectively communicate insights to stakeholders.<br>
 
 
-<h4>উপায় (UCB Fintech Company Limited), Dhaka, Bangladesh
-Business Intelligence Intern | Jun/2023 – Sep/2023 </h4>
-• Applied Predictive Analytics, Customer Segmentation, and Feedback Analysis as a Business Intelligence Intern.
-• Transformed intricate data into actionable insights, fostering data-driven decision-making.
-• Collaborated across departments to develop and execute innovative strategies and projects while enhancing Customer and Agent
-Segmentation Strategies through Advanced Statistical Techniques and effective data visualization.
+<b>উপায় (UCB Fintech Company Limited), Dhaka, Bangladesh</b> <be>
+<b>Business Intelligence Intern | Jun/2023 – Sep/2023 </b><br>
+• Applied Predictive Analytics, Customer Segmentation, and Feedback Analysis as a Business Intelligence Intern.<br>
+• Transformed intricate data into actionable insights, fostering data-driven decision-making.<br>
+• Collaborated across departments to develop and execute innovative strategies and projects while enhancing Customer and Agent<br>
+Segmentation Strategies through Advanced Statistical Techniques and Effective Data Visualization.<br>
 <!---================================================================================================================================================---> 
-
-
-
-
-
 
 
 <h2 align="left">Projects</h2>
