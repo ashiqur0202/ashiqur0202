@@ -60,6 +60,33 @@
 - Studied B.Sc. in Mathematics at Government Titumir College affiliated with Dhaka University.<br>
 - Studied HSC in Science at BAF Shaheen College, Tejgaon, Dhaka
 <!---================================================================================================================================================---> 
+
+<h2>Experience</h2>
+
+
+<h4>উপায় (UCB Fintech Company Limited), Dhaka, Bangladesh
+Business Associate - Business Intelligence (Contract) | Oct/2023 - Present </h4>
+• Proficiently utilize Predictive Analytics, Customer Segmentation, and Feedback Analysis.
+• Transform intricate data into actionable insights, driving data-driven decision-making processes.
+• Collaborate cross-functionally to strategize and execute innovative initiatives and plans.
+• Apply Advanced Statistical Techniques to MFS data, enhancing Customer and Agent Segmentation Strategies.
+• Skillfully employ data visualization tools to effectively communicate insights to stakeholders.
+
+
+<h4>উপায় (UCB Fintech Company Limited), Dhaka, Bangladesh
+Business Intelligence Intern | Jun/2023 – Sep/2023 </h4>
+• Applied Predictive Analytics, Customer Segmentation, and Feedback Analysis as a Business Intelligence Intern.
+• Transformed intricate data into actionable insights, fostering data-driven decision-making.
+• Collaborated across departments to develop and execute innovative strategies and projects while enhancing Customer and Agent
+Segmentation Strategies through Advanced Statistical Techniques and effective data visualization.
+<!---================================================================================================================================================---> 
+
+
+
+
+
+
+
 <h2 align="left">Projects</h2>
 
 <b>House Price Prediction using Advanced Regression Algorithms</b> - [Code](https://github.com/ashiqur0202/House-Price-Prediction)<br>
