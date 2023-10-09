@@ -64,8 +64,8 @@
 <h2>Experience</h2>
 
 
-<b>উপায় (UCB Fintech Company Limited), Dhaka, Bangladesh <br>
-Business Associate - Business Intelligence (Contract) | Oct/2023 - Present <b>
+<b>উপায় (UCB Fintech Company Limited), Dhaka, Bangladesh</b> <br>
+<b>Business Associate - Business Intelligence (Contract) | Oct/2023 - Present </b>
 • Proficiently utilize Predictive Analytics, Customer Segmentation, and Feedback Analysis.
 • Transform intricate data into actionable insights, driving data-driven decision-making processes.
 • Collaborate cross-functionally to strategize and execute innovative initiatives and plans.
