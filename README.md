@@ -4,7 +4,7 @@
 
 <!---===============================================================================================================================================---> 
 
-<h3 align="center">Exploring the field of Data Science, Machine Learning, and Big Data Analytics</h3>
+<h3 align="center">Exploring the field of Data Analytics, Data Science, Machine Learning, and Deep Learning</h3>
 
 <!---================================================================================================================================================---> 
 
