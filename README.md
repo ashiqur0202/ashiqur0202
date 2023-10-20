@@ -9,40 +9,13 @@
 <!---================================================================================================================================================---> 
 
 <h3 align="center">Keep In Touch</h3>
-<style>
-    /* Add some basic styling */
-    .link {
-        text-decoration: none;
-        color: #333;
-        padding: 5px 10px;
-        border: 1px solid #333;
-        border-radius: 5px;
-        margin: 5px;
-        transition: background-color 0.3s, color 0.3s;
-    }
-
-    /* Define the hover effect */
-    .link:hover {
-        background-color: #333;
-        color: #fff;
-    }
-</style>
-
-<a href="https://linkedin.com/in/ashiqur0202" target="_blank" class="link">LinkedIn</a>
-<a href="https://kaggle.com/ashiqur0202" target="_blank" class="link">Kaggle</a>
-<a href="https://public.tableau.com/app/profile/ashiqur0202" target="_blank" class="link">Tableau Public</a>
-<a href="https://medium.com/@ashiqurrahman_" target="_blank" class="link">Medium</a>
-
-</p>
-
-
-
-
 <p align="center">
+    
 <a href="https://linkedin.com/in/ashiqur0202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashiqur0202" height="30" width="40" /></a>
 <a href="https://kaggle.com/ashiqur0202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashiqur0202" height="30" width="40" /></a>
 <a href="https://public.tableau.com/app/profile/ashiqur0202" target="_blank"><img align="center" src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="ashiqur0202" height="30" width="40" /></a>
 <a href="https://medium.com/@ashiqurrahman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashiqurrahman_" height="30" width="40" /></a>
+
 </p>
 
 <!---================================================================================================================================================---> 
