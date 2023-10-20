@@ -9,11 +9,30 @@
 <!---================================================================================================================================================---> 
 
 <h3 align="center">Keep In Touch</h3>
-<p align="center">
-<a href="https://linkedin.com/in/ashiqur0202" target="_blank">LinkedIn</a>
-<a href="https://kaggle.com/ashiqur0202" target="_blank">Kaggle</a>
-<a href="https://public.tableau.com/app/profile/ashiqur0202" target="_blank">Tableau Public</a>
-<a href="https://medium.com/@ashiqurrahman_" target="_blank">Medium</a>
+<style>
+    /* Add some basic styling */
+    .link {
+        text-decoration: none;
+        color: #333;
+        padding: 5px 10px;
+        border: 1px solid #333;
+        border-radius: 5px;
+        margin: 5px;
+        transition: background-color 0.3s, color 0.3s;
+    }
+
+    /* Define the hover effect */
+    .link:hover {
+        background-color: #333;
+        color: #fff;
+    }
+</style>
+
+<a href="https://linkedin.com/in/ashiqur0202" target="_blank" class="link">LinkedIn</a>
+<a href="https://kaggle.com/ashiqur0202" target="_blank" class="link">Kaggle</a>
+<a href="https://public.tableau.com/app/profile/ashiqur0202" target="_blank" class="link">Tableau Public</a>
+<a href="https://medium.com/@ashiqurrahman_" target="_blank" class="link">Medium</a>
+
 </p>
 
 
