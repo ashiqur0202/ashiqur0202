@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/ashiqur0202" target="_blank">LinkedIn</a>
 <a href="https://kaggle.com/ashiqur0202" target="_blank">Kaggle</a>
 <a href="https://public.tableau.com/app/profile/ashiqur0202" target="_blank">Tableau Public</a>
-<a href="https://medium.com/@ashiqurrahman_" target="_blank">Medium</a>
+<a href="https://medium.com/@Md.AshiqurRahman" target="_blank">Medium</a>
 </p>
 
 <!---================================================================================================================================================---> 
