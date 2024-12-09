@@ -137,3 +137,13 @@ Segmentation Strategies through Advanced Statistical Techniques and Effective Da
 
 
 <!---===============================================================================================================================================---> 
+# Top GitHub Repositories
+
+| #   | Repository Name                     | Description                       | Technologies      | Link                          |
+|-----|-------------------------------------|-----------------------------------|-------------------|-------------------------------|
+| 1   | **Data-Science-and-Analytics**      | Brief description here.           | Python, SQL       | [View Repo](https://github.com/ashiqur0202/Data-Science-and-Analytics) |
+| 2   | **Python**                          | Brief description here.           | Python, SQL       | [View Repo](https://github.com/ashiqur0202/Python) |
+| 3   | **Database**                        | Brief description here.           | Python, SQL       | [View Repo](https://github.com/ashiqur0202/Database) |
+| 4   | **Machine-Learning**                | Brief description here.           | Python, SQL       | [View Repo](https://github.com/ashiqur0202/Machine-Learning) |
+| 5   | **Deep-Learning**                   | Brief description here.           | Python, SQL       | [View Repo](https://github.com/ashiqur0202/Deep-Learning) |
+| 6  | **MLOps      **                     | Brief description here.           | Python, SQL       | [View Repo](https://github.com/ashiqur0202/MLOps) |
